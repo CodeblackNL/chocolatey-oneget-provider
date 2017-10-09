@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>ChocoOneGet</id>
+    <version>0.0.0.1</version>
+    <authors>Codeblack</authors>
+    <owners>Codeblack</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Module with DSC Resources to configure TFS Server.</description>
+    <releaseNotes />
+    <copyright>(c) 2017 Codeblack. All rights reserved.</copyright>
+    <tags>PSModule PackageManagement Provider OneGet Chocolatey</tags>
+  </metadata>
+  <files>
+    <file src="**\*.*" target="" />
+  </files>
+</package>
